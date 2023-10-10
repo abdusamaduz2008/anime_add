@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960513446178",
+    "project_id": "school-news-534cf",
+    "storage_bucket": "school-news-534cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960513446178:android:ac4ab9fa99967dfbba557b",
+        "android_client_info": {
+          "package_name": "com.diablos.schooladdnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960513446178-ippt8n0umilq78avv8ieomrn2lobtaen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMf3IJEzSc6HILmS0g3vFiERPyx49oks8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960513446178-ippt8n0umilq78avv8ieomrn2lobtaen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
